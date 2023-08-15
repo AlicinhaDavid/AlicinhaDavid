@@ -3,11 +3,7 @@
   <a href="https://github.com/AlicinhaDavid">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=AlicinhaDavid&count_private=true&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlicinhaDavid&count_private=true&show_icons=true&theme=radical&layout=compact&exclude_repo=taller-test,test&langs_count=10&card_width=700" />
-  </a>
-  <a href="https://github.com/AlicinhaDavid">
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicinhaDavid&repo=products-nextjs&show_owner=true&theme=radical&card_width=300" />
-  <img height="130px" src="https://github-readme-stats.vercel.app/api/pin/?username=AlicinhaDavid&repo=bytebank&show_owner=true&theme=radical&card_width=300" />
-  </a>
+  </a>  
 </div>
 
 ##
